@@ -1,0 +1,5 @@
+<launch>
+    <include file ="$(find lab1)/launch/lab1.launch"/>
+    <node pkg="lab2" name="pub" type="pub.py"/>
+    <node pkg="lab2" name="sub" type="sub.py"/>
+</launch>
