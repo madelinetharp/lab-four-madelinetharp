@@ -1,7 +1,7 @@
 # parameters
-ARG REPO_NAME="lab-two-18r441m"
-ARG DESCRIPTION="In class solution"
-ARG MAINTAINER="Ibrahim Salman(18r441m@gmail.com)"
+ARG REPO_NAME="lab-four-madelinetharp"
+ARG DESCRIPTION="lab4.py allows a parameter to be set that converts feet into either meters or smoots"
+ARG MAINTAINER="Madeline Tharp (mtharp@email.sc.edu)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
